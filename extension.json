@@ -1,0 +1,10 @@
+{
+  "identifier": "Bread.Fennel",
+  "name": "Fennel",
+  "organization": "Bread",
+  "description": "A tree sitter plugin for Fennel",
+  "version": "1.0",
+  "categories": ["languages"],
+  "bugs": "https://github.com/brettkolodny/fennel-nova/issues",
+  "repo": "https://github.com/brettkolodny/fennel-nova"
+}
